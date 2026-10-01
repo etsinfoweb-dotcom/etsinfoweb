@@ -1,0 +1,17 @@
+ETS INFOWEB - site web
+======================
+
+Contenu
+- index.html : le site complet (textes, produits, photos et logo sont inclus dans ce fichier).
+- robots.txt : autorise Google à référencer le site.
+
+Mettre en ligne
+- Netlify : glissez le dossier "etsinfoweb" sur app.netlify.com/drop,
+  ou envoyez ces fichiers dans votre dépôt GitHub relié à Netlify.
+- Aucun réglage de build n'est nécessaire.
+
+Mettre à jour
+1. Modifiez le site dans l'espace administrateur sur Claude, puis cliquez sur Publier.
+2. Cliquez sur "Télécharger le site pour GitHub (index.html)".
+3. Remplacez index.html sur GitHub (Add file > Upload files > Commit changes).
+   Netlify met le site à jour automatiquement.
